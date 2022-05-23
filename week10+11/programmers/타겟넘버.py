@@ -4,8 +4,7 @@ def solution(numbers, target):
     answer = 0
     need_visited = deque()
     n = len(numbers)
-    
-    # 첫 번째
+
     need_visited.append([numbers[0], 0])
     need_visited.append([-1 * numbers[0], 0])
     
