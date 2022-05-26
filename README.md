@@ -2,8 +2,8 @@
  천준석, 박보근, 장준수, 강주희, 박상언, 유하얀, 이시은
  
 <h1>Intro</h1> 
-[팀장 준석님 Github 주소](https://github.com/JunSeokCheon/problem-solving-with-study)
 
+[팀장 준석님 Github 주소](https://github.com/JunSeokCheon/problem-solving-with-study)
 
 - - -
 **알고리즘**, **코딩 테스트** 내용을 정리한 레포입니다.  
